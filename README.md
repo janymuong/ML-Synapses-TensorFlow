@@ -1,4 +1,4 @@
-# ML Synapse - AI/ML in TensorFlow
+# ML Synapse - AI/ML in `TensorFlow`
 
 My notes, code, and resources from `DeepLearning.AI`'s [AI/ML course - based on TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
