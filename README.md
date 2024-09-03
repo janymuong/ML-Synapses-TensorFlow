@@ -1,6 +1,6 @@
 # DeepLearning.AI ML TensorFlow
 
-My notes, code, and resources from [`DeepLearning.AI`'s AI/ML course - based on TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+My notes, code, and resources from `DeepLearning.AI`'s [AI/ML course - based on TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 > Machine learning and neural networks using TensorFlow.  
 
@@ -10,11 +10,11 @@ My notes, code, and resources from [`DeepLearning.AI`'s AI/ML course - based on 
     - Building and training neural networks
     - Improving model performance with advanced techniques
 
----
+
     - Introduction to TensorFlow for AI, ML, and DL 
     - Convolutional Neural Networks in TensorFlow 
     - Natural Language Processing in TensorFlow 
     - Sequences, Time Series, and Prediction
 
 ## File Info:
-> `notebooks` - Jupyter notebooks everywhere :)
+> Jupyter notebooks everywhere :)
