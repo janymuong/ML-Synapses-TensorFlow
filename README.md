@@ -16,6 +16,6 @@ My notes, code, and resources from `DeepLearning.AI`'s [AI/ML course - based on 
     - Natural Language Processing in TensorFlow 
     - Sequences, Time Series, and Prediction
 
-## Info:
+## Instruction:
 > Jupyter notebooks everywhere :)  
-> [DeepLearning.AI](https://www.deeplearning.ai/)
+> [DeepLearning.AI](https://www.deeplearning.ai/) - **Andrew Ng** | **Laurence Moroney**
