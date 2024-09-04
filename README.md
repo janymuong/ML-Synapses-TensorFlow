@@ -18,4 +18,4 @@ My notes, code, and resources from [`DeepLearning.AI`](https://www.coursera.org/
 
 ## Instruction:
 > Jupyter notebooks everywhere :)  
-> [DeepLearning.AI](https://www.deeplearning.ai/) - **Andrew Ng** | **Laurence Moroney**
+> Credit - [DeepLearning.AI](https://www.deeplearning.ai/) | **Andrew Ng** | **Laurence Moroney**
