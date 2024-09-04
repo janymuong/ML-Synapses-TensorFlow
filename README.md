@@ -1,6 +1,6 @@
 # ML Synapses - AI/ML in `TensorFlow`
 
-My notes, code, and resources from `DeepLearning.AI`'s [AI/ML course - based on TensorFlow](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+My notes, code, and resources from `DeepLearning.AI`'s [AI/ML course](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
 > Machine learning and neural networks using TensorFlow.  
 
