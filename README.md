@@ -5,10 +5,15 @@ My notes, code, and resources from [`DeepLearning.AI`](https://www.coursera.org/
 > Machine learning and neural networks using TensorFlow.  
 
 ## Scope:
+- Best practices for TensorFlow, a popular open-source machine learning framework to train a neural network for computer vision applications.
 
-    - TensorFlow for AI, ML, and Deep Learning
-    - Building and training neural networks
-    - Improving model performance with advanced techniques
+- Handle real-world image data and explore strategies to prevent overfitting, including augmentation and dropout.
+
+- Build natural language processing systems using TensorFlow.
+
+- Applying RNNs, GRUs, and LSTMs and train them using text repositories.
+
+In a nutshell, this is meant to `build`, `train`, and `optimize` deep neural networks and and to improve model performance with advanced techniques. Areas covered include Computer Vision, Natural Language Processing, and Time Series Analysis.
 
 
     - Introduction to TensorFlow for AI, ML, and DL 
