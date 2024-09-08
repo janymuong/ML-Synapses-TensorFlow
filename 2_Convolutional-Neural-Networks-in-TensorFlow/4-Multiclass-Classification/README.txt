@@ -1,4 +1,4 @@
-Moving beyond binary classification. 
+Beyond Binary Classification. 
 
 - Build a multiclass classifier for the Sign Language MNIST dataset
 - Learn how to properly set up the ImageDataGenerator parameters and the model definition functions for multiclass classification
