@@ -10,3 +10,14 @@
   <img src="img/positive-negative.png" alt="Positive-Negative" width="480" height="200" style="display: inline-block; margin-right: 10px;">
   <img src="img/embed.png" alt="Embed" width="480" height="200" style="display: inline-block;">
 </p>
+
+
+## Wraps: What I Have Learned
+
+- Looked at taking tokenized words and passing them to an Embedding layer.
+
+- Embeddings map vocabulary to vectors in higher-dimensional space. 
+
+- The semantics of the words were learned when those words were labeled with similar meanings. For example, when looking at movie reviews, those movies with positive sentiment had the dimensionality of their words ending up pointing a particular way, and those with negative sentiment pointing in a different direction. From these, the words in future reviews could have their direction established and your model can infer the sentiment from it. 
+
+- Looked at subword tokenization
