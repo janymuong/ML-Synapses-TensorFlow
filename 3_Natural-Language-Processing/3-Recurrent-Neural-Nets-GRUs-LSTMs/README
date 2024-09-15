@@ -1,0 +1,4 @@
+RNNs, GRUs, and LSTMs on Text
+
+- Sentiment can be determined by the sequence in which words appear. For example, you could have 'not fun', which of course is the opposite of 'fun'. 
+- Digging into a variety of model formats that are used in training models to understand context in sequence!
