@@ -6,3 +6,5 @@ I then learned about **embeddings**, and how words could be mapped to *vectors*,
 From there I started learning about `sequence models`, and how they help deepen my understanding of sentiment in text by not just looking at words in isolation, but also how their meanings change when they qualify one another. 
 
 I am wrapping up by taking everything I learned and using it to build a poetry generator!
+
+And I should have been told batch normalization is unreasonably effective in optimization and leads to faster training, better convergence properties, and often improved overall performance of the model :)
