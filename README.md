@@ -2,7 +2,7 @@
 
 My notes, code, and resources from [`DeepLearning.AI`](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
 
-> Machine learning and neural networks using TensorFlow.  
+> Machine Learning and Neural Networks using `TensorFlow`.  
 
 ## Scope:
 - Learn `TensorFlow`, an open-source machine learning framework to train a neural network for computer vision problem sets.
